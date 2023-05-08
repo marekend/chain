@@ -1,1 +1,1 @@
-# chain
+# PHP Blockchain
